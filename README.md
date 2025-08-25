@@ -21,7 +21,8 @@
 <p align="center">
   💻 Software Developer with 2+ years of experience.<br/>
   🎯 Skilled in C#, Python, TypeScript, React, and PostgreSQL.<br/>
-  📚 Pursuing a Master’s in Artificial Intelligence.<br/>
+  📚 Master’s in Artificial Intelligence.<br/>
+  📚 Bachelor’s in Computer Science.<br/>
   🚀 Passionate about solving problems and building scalable solutions.<br/>
   🌱 Always learning new tools and technologies.<br/>
   📫 Reach me at LinkedIn or <a href="mailto:ankitrijal2054@gmail.com">ankitrijal2054@gmail.com</a>.
@@ -48,7 +49,48 @@
 
 <p align="center">
   <!-- Clean, minimal skill icons (auto dark-mode friendly) -->
-  <img src="https://skillicons.dev/icons?i=cs,py,ts,js,react,flask,fastapi,postgres,aws,docker,git,githubactions,jenkins&perline=7" />
+  <p align="center">
+  <a href="#" title="C#">
+    <img src="https://skillicons.dev/icons?i=cs" width="48" />
+  </a>&nbsp;&nbsp;
+  <a href="#" title="Python">
+    <img src="https://skillicons.dev/icons?i=py" width="48" />
+  </a>&nbsp;&nbsp;
+  <a href="#" title="TypeScript">
+    <img src="https://skillicons.dev/icons?i=ts" width="48" />
+  </a>&nbsp;&nbsp;
+  <a href="#" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" width="48" />
+  </a>&nbsp;&nbsp;
+  <a href="#" title="React">
+    <img src="https://skillicons.dev/icons?i=react" width="48" />
+  </a>&nbsp;&nbsp;
+  <a href="#" title="Flask">
+    <img src="https://skillicons.dev/icons?i=flask" width="48" />
+  </a>&nbsp;&nbsp;
+  <a href="#" title="FastAPI">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="48" />
+  </a>&nbsp;&nbsp;
+  <a href="#" title="PostgreSQL">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" />
+  </a>&nbsp;&nbsp;
+  <a href="#" title="AWS">
+    <img src="https://skillicons.dev/icons?i=aws" width="48" />
+  </a>&nbsp;&nbsp;
+  <a href="#" title="Docker">
+    <img src="https://skillicons.dev/icons?i=docker" width="48" />
+  </a>&nbsp;&nbsp;
+  <a href="#" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" width="48" />
+  </a>&nbsp;&nbsp;
+  <a href="#" title="GitHub Actions">
+    <img src="https://skillicons.dev/icons?i=githubactions" width="48" />
+  </a>&nbsp;&nbsp;
+  <a href="#" title="Jenkins">
+    <img src="https://skillicons.dev/icons?i=jenkins" width="48" />
+  </a>
+</p>
+
 </p>
 
 <p align="center">
