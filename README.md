@@ -1,17 +1,93 @@
-# 💫 About Me:
-💻 Software Developer with 2+ years of experience.<br>🎯 Skilled in C#, Python, TypeScript, React, and PostgreSQL.<br>📚 Pursuing a Master’s in Artificial Intelligence.<br>🚀 Passionate about solving problems and building scalable solutions.<br>🌱 Always learning new tools and technologies.<br>📫 Reach me at LinkedIn or ankitrijal2054@gmail.com.
+<!-- Banner / quick badges -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=700&center=true&vCenter=true&width=820&duration=2500&lines=Hi%2C+I'm+Ankit+Rijal+%7C+Software+Developer;AI+%26+Backend+Engineer;Always+learning%2C+building%2C+and+shipping+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ankitrjl2054/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://instagram.com/ankit_rjl"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
+  <a href="https://x.com/ankit_rijal2054"><img alt="X" src="https://img.shields.io/badge/X-111111?logo=x&logoColor=white&style=for-the-badge"></a>
+  <a href="https://ankitrijal2054.github.io/portfolio_website/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1f6feb?logo=firefox-browser&logoColor=white&style=for-the-badge"></a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ankitrijal2054&color=8e7cff&style=for-the-badge">
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1221,100:1F2847&height=2&section=header&reversal=true"/>
+</p>
+
+<h2 align="center">💫 About Me</h2>
+
+<p align="center">
+  💻 Software Developer with 2+ years of experience.<br/>
+  🎯 Skilled in C#, Python, TypeScript, React, and PostgreSQL.<br/>
+  📚 Pursuing a Master’s in Artificial Intelligence.<br/>
+  🚀 Passionate about solving problems and building scalable solutions.<br/>
+  🌱 Always learning new tools and technologies.<br/>
+  📫 Reach me at LinkedIn or <a href="mailto:ankitrijal2054@gmail.com">ankitrijal2054@gmail.com</a>.
+</p>
+
+<h3 align="center">🌐 Socials</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ankitrjl2054/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  &nbsp;•&nbsp;
+  <a href="https://instagram.com/ankit_rjl"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+  &nbsp;•&nbsp;
+  <a href="https://x.com/ankit_rijal2054"><img alt="X" src="https://img.shields.io/badge/X-111111?logo=x&logoColor=white"></a>
+  &nbsp;•&nbsp;
+  <a href="https://ankitrijal2054.github.io/portfolio_website/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1f6feb?logo=firefox-browser&logoColor=white"></a>
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2847,100:0B1221&height=2&section=header&reversal=true"/>
+</p>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <!-- Clean, minimal skill icons (auto dark-mode friendly) -->
+  <img src="https://skillicons.dev/icons?i=cs,py,ts,js,react,flask,fastapi,postgres,aws,docker,git,githubactions,jenkins&perline=7" />
+</p>
+
+<p align="center">
+  <!-- Keep your original big badges (for-the-badge) below if you like the chunky look -->
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=000000"/>
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1221,100:1F2847&height=2&section=header&reversal=true"/>
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrijal2054&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Overall stats (shows Total PRs, Issues, Stars) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitrijal2054&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrijal2054&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
+<!-- Subtle animated divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1F2847,100:0B1221"/>
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitrjl2054/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit_rjl) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankit_rijal2054) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ankitrijal2054&theme=catppuccin_mocha&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrijal2054&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=ankitrijal2054&icon=5&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly crafted in Markdown -->
